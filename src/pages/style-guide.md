@@ -7,8 +7,8 @@ subtitle: >-
 img_path: images/6.jpg
 menus:
   main:
-    title: Style Guide
-    weight: 3
+    title: ''
+    weight: ''
 template: page
 ---
 
