@@ -1,20 +1,13 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: About Furem Media and our blog.
+img_path: ''
 menus:
   main:
     title: About
     weight: 2
 template: page
 ---
+**Joshua Brigden** is a Videographer from Birmingham, England. After making home made youtube videos for a short while he decided to explore the world of real videography work.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+**Furem Media** is a media and marketing agency founded by **^Joshua Brigden**, a passion project turned agency he operates as Furem Media doing free lance work for anybody who needs it. Furem's competitive and low prices make it one of the best options.
