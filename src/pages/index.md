@@ -6,10 +6,9 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Welcome to the Furem Media blog, our CEO, Joshua Brigden, is an avid
+      writer. This is where you will find most of his blog posts but also some
+      posts surrounding the company!
     actions:
       - label: Learn More
         url: /about
