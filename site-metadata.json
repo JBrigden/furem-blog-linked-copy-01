@@ -1,18 +1,18 @@
 {
   "title": "Furem Media Blog",
   "layout_style": "list",
-  "palette": "green",
+  "palette": "blue",
   "header": {
     "title": "Ampersand",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/furemlogo.png",
     "has_nav": true
   },
   "footer": {
     "content": "&copy; All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Made by Joshua Brigden",
+        "url": "https://www.furemmedia.co.uk",
         "new_window": true
       }
     ],
